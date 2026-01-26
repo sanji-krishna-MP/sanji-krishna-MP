@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Deep learning , Machine Learning and computer vision**
 
-- 📫 How to reach me **murali.sanji.krishna@gmail.com**
+- 📫 Reach me by mail **murali.sanji.krishna@gmail.com**
 
-- 🤨Need to know more **Reach me out**
+- 🤨 Need to know more **reach me out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
