@@ -15,28 +15,30 @@
 
 <h2 align="left">Languages</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/>
 </p>
+
 
 <hr>
 
 <h2 align="left">Tools & Frameworks</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" width="55"/>
 </p>
+
 
 <hr>
 
