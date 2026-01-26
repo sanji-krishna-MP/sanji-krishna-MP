@@ -3,13 +3,13 @@
 
 <hr>
 
-<ul style="font-size:18px;">
-  <li>🧑‍💻 I’m currently working on <b>Real-Time Road Anomaly Detection from Dashcam Footage on Raspberry Pi</b></li>
-  <li>🎉 Prize-winning project: <b>Crowdsourced Civic Issue Reporting and Resolution System</b></li>
-  <li>💀 First ever project: <b>Diabetes Prediction using ML</b></li>
-  <li>💬 Ask me about <b>Deep Learning, Machine Learning & Computer Vision</b></li>
-  <li>📫 Reach me at <b>murali.sanji.krishna@gmail.com</b></li>
-</ul>
+<h3>
+• 🧑‍💻 I’m currently working on <b>Real-Time Road Anomaly Detection from Dashcam Footage on Raspberry Pi</b><br><br>
+• 🎉 Prize-winning project: <b>Crowdsourced Civic Issue Reporting and Resolution System</b><br><br>
+• 💀 First ever project: <b>Diabetes Prediction using ML</b><br><br>
+• 💬 Ask me about <b>Deep Learning, Machine Learning & Computer Vision</b><br><br>
+• 📫 Reach me at <b>murali.sanji.krishna@gmail.com</b>
+</h3>
 
 <hr>
 
@@ -33,7 +33,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
 </p>
 
 <hr>
@@ -48,6 +50,6 @@
   </a>
 </p>
 
-<hr>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanji-krishna-mp&layout=compact" />
+</p>
