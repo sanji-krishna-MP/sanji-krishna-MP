@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="name.svg" />
+</p>
 <h1 align="center">Hi 👋, I'm Sanji Krishna M P</h1>
 <h3 align="center">A 19 Years old AI/ML enthusiast from India</h3>
 
