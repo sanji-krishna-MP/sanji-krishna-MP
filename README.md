@@ -1,58 +1,73 @@
 <p align="center">
-  <img src="name.svg" />
-</p>
-<h1 align="center">Hey There.</h1>
-<h3 align="center">A 19 Years old AI/ML enthusiast from India</h3>
-
-<hr>
-
-<h3>
-• 🧑‍💻 I’m currently working on <b>Real-Time Road Anomaly Detection from Dashcam Footage on Raspberry Pi</b><br><br>
-• 🎉 Prize-winning project: <b>Crowdsourced Civic Issue Reporting and Resolution System</b><br><br>
-• 💀 First ever project: <b>Diabetes Prediction using ML</b><br><br>
-• 💬 Ask me about <b>Deep Learning, Machine Learning & Computer Vision</b><br><br>
-• 📫 Reach me at <b>murali.sanji.krishna@gmail.com</b>
-</h3>
-
-<hr>
-
-<h2 align="left">Languages</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/>
+  <img src="name.svg" alt="Murali Sanji Krishna" width="400" />
 </p>
 
-
-<hr>
-
-<h2 align="left">Tools & Frameworks</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" width="55"/>
+<h1 align="center">Sanji Krishna M. P.</h1>
+<p align="center">
+  <b>AI/ML and Computer Vision Engineer | Engineering Specialist</b>
 </p>
 
-
-<hr>
-
-<h2 align="left">Connect with Me</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sanji-krishna-mp-a61947331/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55"/>
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/profile/sanjikrishna_mp1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" width="55"/>
+  <a href="mailto:murali.sanji.krishna@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://hackerrank.com" target="_blank">
+    <img src="https://shields.io" alt="HackerRank" />
   </a>
 </p>
 
+---
 
+### Technical Profile
+Specialized in building and deploying scalable Deep Learning, Machine Learning, and Computer Vision architectures. Expertise spans data pipeline engineering, model optimization, and deployment on edge-computing devices.
+
+* **Active Development:** Designing and implementing real-time road anomaly detection pipelines using optimized computer vision models for Raspberry Pi deployment.
+* **Key Achievements:** Developed an award-winning Crowdsourced Civic Issue Reporting and Resolution System.
+* **Core Competencies:** Object Detection, Embedded Systems Integration, Predictive Analytics, and Deep Learning Frameworks.
+
+---
+
+### Technical Stack
+
+<table>
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev" alt="Frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Tools & Infrastructure</b></td>
+    <td>
+      <img src="https://skillicons.dev" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Dynamic Performance Metrics
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Top Languages" height="150" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  </a>
+</p>
+
+#### Active Project Repository
+<p align="center">
+  <a href="https://github.com/Road-Anomaly-Detection">
+    <img src="https://vercel.app" alt="Featured Repository" />
+  </a>
+</p>
