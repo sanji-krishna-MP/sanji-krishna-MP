@@ -9,13 +9,11 @@
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://skillicons.dev" width="55" alt="LinkedIn"/>
   </a>
-  <a href="mailto:murali.sanji.krishna@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://hackerrank.com" target="_blank">
-    <img src="https://shields.io" alt="HackerRank" />
+    <img src="https://skillicons.dev" width="55" alt="HackerRank"/>
   </a>
 </p>
 
