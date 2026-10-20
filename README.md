@@ -51,7 +51,7 @@ Specialized in building and deploying scalable Deep Learning, Machine Learning, 
   </tr>
 </table>
 
----
+
 
 ### Dynamic Performance Metrics
 <p align="center">
