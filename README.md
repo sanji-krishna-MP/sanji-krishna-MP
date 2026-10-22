@@ -69,3 +69,4 @@ Specialized in building and deploying scalable Deep Learning, Machine Learning, 
     <img src="https://vercel.app" alt="Featured Repository" />
   </a>
 </p>
+thanks for visiting
